@@ -28,7 +28,7 @@ bash aws_configure.sh
 3) Build and Run Containers:
 
 Run the following command to start/stop the required Docker containers:
-
+(Please make sure Docker Desktop is Up and Running before executing these lines.)
 start:
     docker-compose up -d
 
