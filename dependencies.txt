@@ -1,0 +1,12 @@
+awscli-local
+awscli
+boto3
+botocore
+jmespath
+launchpadlib
+localstack-client
+psycopg2-binary
+python-dateutil
+s3transfer
+six
+urllib3
